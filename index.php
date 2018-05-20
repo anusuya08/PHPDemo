@@ -1,5 +1,5 @@
 <?php 
 
-echo "Welcome to Index file";
+echo "Welcome to Index file -- ";
 
 ?>
