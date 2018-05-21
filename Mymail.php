@@ -32,4 +32,4 @@ class MyMail extends PHPMailer
   }
 }
 $m = new MyMail();
-$result = $m->sendMail('anishpraba@hotmail.com', 'kkanchi@gmail.com', 'Test from script', 'test message from script');
+$result = $m->sendMail('anishpraba@hotmail.com', 'anusuyakathirvelu@gmail.com', 'Test from script', 'test message from script');
