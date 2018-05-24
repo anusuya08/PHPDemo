@@ -82,7 +82,7 @@ if(isset($_POST["submitted"])){
   </tr>   
 </table>
 </form>
-
+//comment added
 <?php
 include 'includes/footer.php';
 ?>
